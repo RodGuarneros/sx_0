@@ -87,7 +87,7 @@ df = df.drop(columns=['Unnamed: 0'])
 with st.sidebar:
     # st.title('SX Challenge <br> México')
     st.markdown("<h3 style='text-align: center;'>Análisis de Propinas<br></h3>", unsafe_allow_html=True)
-    st.markdown("<h3 style='text-align: center;'>Sales Excelence - GATES<br></h3>", unsafe_allow_html=True)
+    st.markdown("<h3 style='text-align: center;'>Sales Excellence - GATES<br></h3>", unsafe_allow_html=True)
 
     # # Entidad
     # entidad_list = list(df_reshaped.ENTIDAD.unique())
